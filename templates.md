@@ -1,6 +1,8 @@
-**java** \n
-Abbreviation: doc \n
-_Purpose: Java method documentation_ \n
+**java** 
+
+  Abbreviation: doc 
+
+_Purpose: Java method documentation_ 
 
 ```
 /**
@@ -21,25 +23,28 @@ _Purpose: Java method documentation_ \n
 */
 ```
 
-**xml** \n
-Abbreviation: consps \n
-_constraint start to start of parent_ \n
+**xml** 
+  Abbreviation: consps 
+
+_constraint start to start of parent_ 
 
 ```
 app:layout_constraintStart_toStartOf="parent"
 app:layout_constraintLeft_toLeftOf="parent"
 ```
 
-Abbreviation: conspe \n
-_constraint end to end of parent_ \n
+  Abbreviation: conspe 
+
+_constraint end to end of parent_ 
 
 ```
 app:layout_constraintEnd_toEndOf="parent"
 app:layout_constraintRight_toRightOf="parent"
 ```
 
-Abbreviation: consph \n
-_constraint horizontal to parent_ \n
+  Abbreviation: consph 
+
+_constraint horizontal to parent_ 
 
 ```
 app:layout_constraintStart_toStartOf="parent"
@@ -48,16 +53,18 @@ app:layout_constraintEnd_toEndOf="parent"
 app:layout_constraintRight_toRightOf="parent"
 ```
 
-Abbreviation: conspv \n
-_constraint vertical to parent_ \n
+Abbreviation: conspv 
+
+_constraint vertical to parent_ 
 
 ```
 app:layout_constraintTop_toTopOf="parent"
 app:layout_constraintBottom_toBottomOf="parent"
 ```
 
-Abbreviation: conspall \n
-_All constraint to parent_ \n
+Abbreviation: conspall 
+
+_All constraint to parent_ 
 
 ```
 app:layout_constraintStart_toStartOf="parent"
@@ -69,24 +76,27 @@ app:layout_constraintBottom_toBottomOf="parent"
 ```
 
 
-Abbreviation: consxs \n
-_constraint start to start of element_ \n
+Abbreviation: consxs 
+
+_constraint start to start of element_ 
 
 ```
 app:layout_constraintStart_toStartOf="@id/$parent$"
 app:layout_constraintLeft_toLeftOf="@id/$parent$"
 ```
 
-Abbreviation: consxe \n
-_constraint end to end of element_ \n
+Abbreviation: consxe 
+
+_constraint end to end of element_ 
 
 ```
 app:layout_constraintEnd_toEndOf="@id/$parent$"
 app:layout_constraintRight_toRightOf="@id/$parent$"
 ```
 
-Abbreviation: consxh \n
-_constraint horizontal to element_ \n
+Abbreviation: consxh 
+
+_constraint horizontal to element_ 
 
 ```
 app:layout_constraintStart_toStartOf="@id/$parent$"
@@ -95,32 +105,36 @@ app:layout_constraintEnd_toEndOf="@id/$parent$"
 app:layout_constraintRight_toRightOf="@id/$parent$"
 ```
 
-Abbreviation: consxv \n
-_constraint vertical to element_ \n
+Abbreviation: consxv 
+
+_constraint vertical to element_ 
 
 ```
 app:layout_constraintTop_toTopOf="@id/$parent$"
 app:layout_constraintBottom_toBottomOf="@id/$parent$"
 ```
 
-Abbreviation: consxste \n
-_constraint start to end of element_ \n
+Abbreviation: consxste 
+
+_constraint start to end of element_ 
 
 ```
 app:layout_constraintStart_toEndOf="@id/$parent$"
 app:layout_constraintLeft_toRightOf="@id/$parent$"
 ```
 
-Abbreviation: consxets \n
-_constraint end to start of element_ \n
+Abbreviation: consxets 
+
+_constraint end to start of element_ 
 
 ```
 app:layout_constraintEnd_toStartOf="@id/$parent$"
 app:layout_constraintRight_toLeftOf="@id/$parent$"
 ```
 
-Abbreviation: consxall \n
-_All constraint to element_ \n
+Abbreviation: consxall 
+
+_All constraint to element_ 
 
 ```
 app:layout_constraintStart_toStartOf="@id/$parent$"
@@ -131,15 +145,17 @@ app:layout_constraintTop_toTopOf="@id/$parent$"
 app:layout_constraintBottom_toBottomOf="@id/$parent$"
 ```
 
-Abbreviation: col \n
-_Add color resource_ \n
+Abbreviation: col 
+
+_Add color resource_ 
 
 ```
 <color name="$colorBlack00A100$">$000000$</color>
 ```
 
-Abbreviation: st \n
-_Add string resource_ \n
+Abbreviation: st 
+
+_Add string resource_ 
 
 ```
 <string name="$st_label$">$value$</string>
