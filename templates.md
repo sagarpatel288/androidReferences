@@ -161,3 +161,11 @@ _Add string resource_
 ```
 <string name="$st_label$">$value$</string>
 ```
+
+Abbreviation: dim
+
+_Add dimension resource_
+
+```
+<dimen name="$dim_name$">$10dp$</dimen>
+```
