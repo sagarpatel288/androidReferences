@@ -12,8 +12,8 @@ _Purpose: Java method documentation_
 * </p>
 * Tight coupling with literal {@link #}
 *
-* @param view any view
-* @return boolean
+* @param 
+* @return 
 * @author srdpatel
 * @see Context as major reference
 * @see <a href="http://google.com">See Also - Hyperlink reference</a>
