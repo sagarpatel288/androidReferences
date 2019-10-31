@@ -16,3 +16,7 @@ https://docs.google.com/document/d/1cKQc8peDbsJ1XJvQpEdWu4rUymDQiA7brSEgVq1jI2w/
 All about MVVM
 
 https://docs.google.com/document/d/19nKnDLYw1i0BtYG1JaRAjWjXWGsircAZZ6x5PRZKim8/edit?usp=sharing
+
+Justification of resume
+
+https://docs.google.com/document/d/1AHXLDc1c0ipeoMqE0FbGB4Rn_pswD8q3Ikf-yv0zEho/edit?usp=sharing
