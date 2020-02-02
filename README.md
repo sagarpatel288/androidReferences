@@ -20,3 +20,11 @@ https://docs.google.com/document/d/19nKnDLYw1i0BtYG1JaRAjWjXWGsircAZZ6x5PRZKim8/
 Justification of resume
 
 https://docs.google.com/document/d/1AHXLDc1c0ipeoMqE0FbGB4Rn_pswD8q3Ikf-yv0zEho/edit?usp=sharing
+
+Kotlin FF
+
+https://docs.google.com/document/d/1bV_VOxTRrIdtKAdEED08pwUY3Tt1zOyH19WHHi7lGrA/edit?usp=sharing
+
+Kotlin
+
+https://docs.google.com/document/d/13yUl55T5VLkhDESiuqoIFzKScTd_E9PWR3mb-DS9WQ4/edit?usp=sharing
